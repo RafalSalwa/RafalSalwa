@@ -41,8 +41,8 @@ Welcome to my GitHub profile!
 
  <div align="center">
   <a href="https://github.com/Rodrigo-Cn"> 
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafalSalwa&theme=github"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalsalwa&langs_count=8&layout=compact&theme=github" alt="Top Langs"/>
+   <img height="165em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafalSalwa&theme=github"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalsalwa&langs_count=8&layout=compact&theme=github" alt="Top Langs"/>
     <br />
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafalSalwa&theme=github" alt="Top Langs"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafalSalwa&theme=github" alt="Top Langs"/>
